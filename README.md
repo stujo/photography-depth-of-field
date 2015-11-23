@@ -14,4 +14,4 @@ Sometimes when we take a photograph parts or all of it may be out of focus. Why 
 
 ## Light and How We See Things
 
-![Moo](https://sketch.io/render/sketch56538db1b174b.png)
+![Moo](http://i.imgur.com/NGPw6yM.png)
