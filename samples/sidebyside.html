@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- saved from url=(0061)file:///Users/stuart/Downloads/twentytwenty-master/index.html -->
+<html lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>twentytwenty</title>
+  <link href="./sidebyside_files/foundation.css" rel="stylesheet" type="text/css">
+  <link href="./sidebyside_files/twentytwenty.css" rel="stylesheet" type="text/css">
+  <style>
+    .twentytwenty-before-label:before { content: "f2.8 Wide"; }
+    .twentytwenty-after-label:before { content: "f22 Tiny"; }
+  </style>
+</head>
+  <body>
+
+    <div class="row" style="margin-top: 2em;">
+      <div class="large-4 columns">
+        <h3>f2.8 vs f22</h3>
+        <p>Wide Open vs Tiny Aperture</p>
+      </div>
+      <div class="large-8 columns">
+        <div class="twentytwenty-wrapper twentytwenty-horizontal"><div class="twentytwenty-container" style="height: 438px;">
+          <img src="./2015-curious-9689-f2.8.jpg" class="twentytwenty-before" style="clip: rect(0px 245.156px 438px 0px);">
+          <img src="./2015-curious-9707-f22.jpg" class="twentytwenty-after">
+        <div class="twentytwenty-overlay"><div class="twentytwenty-before-label"></div><div class="twentytwenty-after-label"></div></div><div class="twentytwenty-handle" style="left: 245.156px;"><span class="twentytwenty-left-arrow"></span><span class="twentytwenty-right-arrow"></span></div></div></div>
+      </div>
+    </div>
+    
+    <script src="./sidebyside_files/jquery.min.js"></script>
+    <script src="./sidebyside_files/jquery.event.move.js"></script>
+    <script src="./sidebyside_files/jquery.twentytwenty.js"></script>
+    <script>
+    $(window).load(function(){
+      $(".twentytwenty-container[data-orientation!='vertical']").twentytwenty({default_offset_pct: 0.7});
+      $(".twentytwenty-container[data-orientation='vertical']").twentytwenty({default_offset_pct: 0.3, orientation: 'vertical'});
+    });
+    </script>
+</body></html>
