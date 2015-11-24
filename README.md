@@ -8,7 +8,7 @@ Sometimes when we take a photograph parts or all of it may be out of focus. Why 
 # What We'll Explore
 
 * How do we See Things?
-* How does an image form in a Camera?
+* How does an Image form in a Camera?
 * What is Focus?
 * What is Depth of Field?
 * What is an Aperture?
@@ -68,15 +68,14 @@ Hint: An aperture reduces the size of the opening to the incoming light.
 # Review
 
 * How do we See Things?
-* How does an image form in a Camera?
+* How does an Image form in a Camera?
 * What is Focus?
 * What is Depth of Field?
 * What is an Aperture?
 
+# Bonus Materials
 
-# Bonus
-
-##Links
-
+* [Samples](./samples.md)
+* [Animated Gif](./samples.md)
 * [Lens Combinations](https://www.youtube.com/watch?v=aHHa0cK_3as) Gives an overview of lens calculations
 
