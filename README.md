@@ -4,7 +4,6 @@ What's In Focus
 Sometimes when we take a photograph parts or all of it may be out of focus. Why is that?
 
 * [Sketch.IO](https://sketch.io/sketchpad/)
-* [Focus Example](http://stujo.github.io/photography-depth-of-field/samples/sidebyside.html)
 
 # What We'll Explore
 
@@ -33,7 +32,7 @@ What happens? Describe the elements involved and how the image is captured.
 
 # The Photograph of the Scene
 ![Moo](./004-MooSeen.png)
-The light bouncing off the cow enters lens and is bent as it passes through the lens. The image is focused on the film or sensor at the back of the camera. In this case the scene is inverted, but this isn't always the case.
+The light bouncing off the cow enters lens and is bent as it passes through the lens. The image is focused on the film or sensor at the back of the camera. The scene is inverted.
 
 # What is Focus?
 ![Moo](./005-NoseFocus.png)
@@ -55,8 +54,17 @@ Being *in focus* is somewhat subjective and also depends on the size of the resu
 The focal point of a lens is where light entering perpendicular to the lens will be focused.
 
 
+# Just the Top of the Cow
+![Moo](./009-SingleOriginLight.png)
+The light reflected from the cows head all focuses on the same point on the image plane, so the cow is in focus
+
+# Different Image Plane?
+![Moo](./010-ImagePlanes.png)
+What would the cow look like if the image plane was a different distance from the lens?
+
+
 # Effect of Aperture?
-![Moo](./009-Aperture.png)
+![Moo](./011-Aperture.png)
 What do you think is the effect on the depth of field if we place an aperture into the system?
 
 Hint: An aperture reduces the size of the opening to the incoming light.
