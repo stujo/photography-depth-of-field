@@ -4,6 +4,7 @@ What's In Focus
 Sometimes when we take a photograph parts or all of it may be out of focus. Why is that?
 
 * [Sketch.IO](https://sketch.io/sketchpad/)
+* [Focus Example](http://stujo.github.io/photography-depth-of-field/samples/sidebyside.html)
 
 # What We'll Explore
 
