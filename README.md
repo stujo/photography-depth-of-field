@@ -33,7 +33,7 @@ What happens? Describe the elements involved and how the image is captured.
 
 # The Photograph of the Scene
 ![Moo](./004-MooSeen.png)
-The light bouncing off the cow enters lens and is bent as it passes through the lens. The image is focused on the film or sensor at the back of the camera. The scene is inverted.
+The light bouncing off the cow enters lens and is bent as it passes through the lens. The image is focused on the film or sensor at the back of the camera. In this case the scene is inverted, but this isn't always the case.
 
 # What is Focus?
 ![Moo](./005-NoseFocus.png)
