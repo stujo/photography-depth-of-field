@@ -4,6 +4,7 @@ What's In Focus
 Sometimes when we take a photograph parts or all of it may be out of focus. Why is that?
 
 * [Sketch.IO](https://sketch.io/sketchpad/)
+* [Focus Example](http://stujo.github.io/photography-depth-of-field/samples/sidebyside.html)
 
 # What We'll Explore
 
@@ -85,6 +86,6 @@ Hint: An aperture reduces the size of the opening to the incoming light.
 # Bonus Materials
 
 * [Samples](./samples.md)
-* [Animated Gif](./samples.md)
+* [Animated Gif](./samples/Curious_George_Focus.gif)
 * [Lens Combinations](https://www.youtube.com/watch?v=aHHa0cK_3as) Gives an overview of lens calculations
 
